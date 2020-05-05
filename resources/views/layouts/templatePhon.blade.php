@@ -12,7 +12,7 @@
 
     
     @include("layouts.phonePagination")
-    @yield("paginationPhone")  
+    
     
 </body>
 </html>
