@@ -87,7 +87,7 @@
                     phones
                 </div>
 
-                @extends("layouts.templatephone")
+                @extends("layouts.templatephon")
 
                 @section("paginationPhone")
                 @endsection
