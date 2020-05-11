@@ -88,6 +88,8 @@
                 </div>
 
                 @extends("layouts.templatephon")
+                @section("paginationPhone")
+                @endsection
                 
                     
                 </div>
