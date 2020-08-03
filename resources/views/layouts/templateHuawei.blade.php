@@ -186,24 +186,24 @@ $(document).ready(function(){
             <table class="egt" style="text-align: left;">
 
               <tr>
-                <td>Name: </td>
-                <td>{{$products[0]->name}}</td>
+              <td>Name: </td>
+                <td>Huawei y5</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[0]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[0]->weight}}</td>
+                <td>6.8'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[0]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[0]->price}}</td>
+                <td>67789</td>
               </tr>
             </table>
             </div>
@@ -249,24 +249,24 @@ $(document).ready(function(){
         <div class="card-body">
              <table class="egt" style="text-align: left;">
              <tr>
-                <td>Name: </td>
-                <td>{{$products[1]->name}}</td>
+             <td>Name: </td>
+                <td>Huawei y6</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[1]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[1]->weight}}</td>
+                <td>6.8'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[1]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[1]->price}}</td>
+                <td>67789</td>
               </tr>
             </table>
         </div>
@@ -312,23 +312,23 @@ $(document).ready(function(){
         <table class="egt" style="text-align: left;">
         <tr>
                 <td>Name: </td>
-                <td>{{$products[2]->name}}</td>
+                <td>Huawei</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[2]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[2]->weight}}</td>
+                <td>6.8'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[2]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[2]->price}}</td>
+                <td>67789</td>
               </tr>
             </table>
         </div>

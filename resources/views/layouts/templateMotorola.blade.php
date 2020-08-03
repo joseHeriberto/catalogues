@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -82,23 +82,23 @@ $(document).ready(function(){
             <table class="egt" style="text-align: left;">
             <tr>
                 <td>Name: </td>
-                <td>{{$products[5]->name}}</td>
+                <td>Motorola</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[5]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[5]->weight}}</td>
+                <td>5.5'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[5]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[5]->price}}</td>
+                <td>6777</td>
               </tr>
             </table>
             </div>
@@ -144,24 +144,24 @@ $(document).ready(function(){
         <div class="card-body">
              <table class="egt" style="text-align: left;">
              <tr>
-                <td>Name: </td>
-                <td>{{$products[7]->name}}</td>
+             <td>Name: </td>
+                <td>Motorola e4</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[7]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[7]->weight}}</td>
+                <td>5.5'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[7]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[7]->price}}</td>
+                <td>6777</td>
               </tr>
             </table>
         </div>
@@ -206,24 +206,24 @@ $(document).ready(function(){
         <div class="card-body">
         <table class="egt" style="text-align: left;">
         <tr>
-                <td>Name: </td>
-                <td>{{$products[8]->name}}</td>
+        <td>Name: </td>
+                <td>Motorola e4 plus</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[8]->description}}</td>
+                <td>SmartPhone</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[8]->weight}}</td>
+                <td>5.5'</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[8]->category}}</td>
+                <td>Phone</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[8]->price}}</td>
+                <td>6777</td>
               </tr>
             </table>
         </div>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="{{asset('css/bootstrap.min.css')}}" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
@@ -77,28 +77,29 @@ $(document).ready(function(){
                     <span class="sr-only">Next</span>
                   </a>
                 </div>
-             
+             <!-- product table -->
         <div class="card-body">
              <table class="egt" style="text-align: left;">
              <tr>
                 <td>Name: </td>
-                <td>{{$products[1]->name}}</td>
+                <!-- <td>{{$products[1]->name}}</td> -->
+                <td>Xbox360</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[1]->description}}</td>
+                <td>consoles Xbox 360</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[1]->weight}}</td>
+                <td>7X18 cm</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[1]->category}}</td>
+                <td>Game</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[1]->price}}</td>
+                <td>1500</td>
               </tr>
             </table>
         </div>
@@ -144,23 +145,23 @@ $(document).ready(function(){
         <table class="egt" style="text-align: left;">
         <tr>
                 <td>Name: </td>
-                <td>{{$products[1]->name}}</td>
+                <td>Xbox</td>
               </tr>
               <tr>
                 <td>Description: </td>
-                <td>{{$products[1]->description}}</td>
+                <td>Consoles for fun and entertainment</td>
               </tr>
               <tr>
                 <td>Weight: </td>
-                <td>{{$products[1]->weight}}</td>
+                <td>30 cm</td>
               </tr>
               <tr>
                 <td>Category: </td>
-                <td>{{$products[1]->category}}</td>
+                <td>consoles</td>
               </tr>
               <tr>
                 <td>Retail price: </td>
-                <td>{{$products[1]->price}}</td>
+                <td>60000</td>
               </tr>
             </table>
         </div>
