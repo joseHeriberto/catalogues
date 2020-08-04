@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Motorola cell
+                    Motorola phone
                 </div>
 
                 @extends("layouts.templateMotorola")

@@ -14,7 +14,7 @@
         <div class="card" style="width: 18rem;  margin-left: 9.5rem;">
             <img src="{{asset('images/huawei.jpg')}}" class="card-img-top" alt="..." >
             <div class="card-body">
-                <p class="card-text">Here you can find many items of cell phones brand Huawei.</p>
+                <p class="card-text">Here you can find many items of phone phones brand Huawei.</p>
             </div>
         </div>
     </a>
@@ -23,7 +23,7 @@
         <div class="card" style="width: 18rem;margin:0 auto; margin-right: 2.5rem; margin-left: 2.5rem;">
         <img src="{{asset('images/samsung.jpg')}}" class="card-img-top" alt="...">
         <div class="card-body">
-            <p class="card-text">Here you can find many items of cell phones brand Samsung.</p>
+            <p class="card-text">Here you can find many items of phone phones brand Samsung.</p>
         </div>
         </div>
     </a>
@@ -31,7 +31,7 @@
         <div class="card" style="width: 18rem;margin:center; margin-right: 2.5rem; margin-left: 2.5rem;">
         <img src="{{asset('images/mootorola.jpg')}}" class="card-img-top" alt="...">
         <div class="card-body">
-            <p class="card-text">Here you can find many items of cell phones brand Motorola.</p>
+            <p class="card-text">Here you can find many items of phone phones brand Motorola.</p>
         </div>
         </div>
     </a>

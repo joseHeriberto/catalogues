@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Samsung cell
+                    Samsung phone
                 </div>
 
                 @extends("layouts.templateSamsung")

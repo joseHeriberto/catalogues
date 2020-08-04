@@ -84,7 +84,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ios cells
+                    Ios phones
                 </div>
 
                 @extends("layouts.templateIos")
