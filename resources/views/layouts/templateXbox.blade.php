@@ -82,7 +82,7 @@ $(document).ready(function(){
              <table class="egt" style="text-align: left;">
              <tr>
              <td>Name: </td>
-                <td>Play station</td>
+                <td>Xbox 360</td>
               </tr>
               <tr>
                 <td>Description: </td>
