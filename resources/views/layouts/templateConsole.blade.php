@@ -22,10 +22,10 @@
 </a>
 <a href="{{url('/console/ps')}}">
     <div class="card" style="width: 18rem;margin:center; margin-right: 2.5rem; margin-left: 2.5rem;">
-    <img src="{{asset('images/play.png')}}" class="card-img-top" alt="...">
-    <div class="card-body">
-        <p class="card-text">PlayStation.</p>
-    </div>
+         <img src="{{asset('images/play.png')}}" class="card-img-top" alt="...">
+         <div class="card-body">
+            <p class="card-text">PlayStation.</p>
+         </div>
     </div>
 </a>
 

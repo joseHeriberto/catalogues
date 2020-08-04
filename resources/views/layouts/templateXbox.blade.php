@@ -81,9 +81,8 @@ $(document).ready(function(){
         <div class="card-body">
              <table class="egt" style="text-align: left;">
              <tr>
-                <td>Name: </td>
-                <!-- <td>{{$products[1]->name}}</td> -->
-                <td>Xbox360</td>
+             <td>Name: </td>
+                <td>Play station</td>
               </tr>
               <tr>
                 <td>Description: </td>
@@ -104,8 +103,9 @@ $(document).ready(function(){
             </table>
         </div>
         </div>
+      </a>
     
-    
+    <a href="{{url('/console')}}">
         <div class="card" style="width: 20%; margin:10 auto; margin-left: 2.5rem;">
         <div id="myCarousel2" class="carousel slide;" data-ride="carousel" style="width:93%; margin: 10px auto">
                   <!-- Indicators -->
@@ -166,7 +166,7 @@ $(document).ready(function(){
             </table>
         </div>
         </div>
-    
+    </a>
 
         
 </div>
